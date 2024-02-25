@@ -1,4 +1,7 @@
 # Repository Name: Ambiguity-Resolution-and-Integrity-Analysis
+# My MATLAB Project
+
+This repository contains MATLAB scripts and code for various data analysis tasks.
 
 ## Description
 This repository contains MATLAB scripts and code snippets for analyzing and resolving ambiguities in positioning systems, with a focus on integrity analysis. The scripts provide implementations of algorithms and techniques for resolving ambiguities in positioning data, computing integrity metrics, and visualizing the results.
