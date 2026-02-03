@@ -1,5 +1,7 @@
-# Repository Name: Ambiguity-Resolution-and-Integrity-Analysis
-# My MATLAB Project
+# GNSS Ambiguity Resolution & Integrity Analysis
+
+[![CI](https://github.com/VimsRocz/Gnss_Ambiguity_Resolution_integrity/actions/workflows/ci.yml/badge.svg)](https://github.com/VimsRocz/Gnss_Ambiguity_Resolution_integrity/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This repository contains MATLAB scripts and code for various data analysis tasks.
 
@@ -16,3 +18,7 @@ This MATLAB script implements algorithms for ambiguity resolution and integrity 
 - Visualization of results through plots and diagrams.
 
 The script is structured into sections corresponding to different tasks involved in ambiguity resolution and integrity analysis. Each section contains code snippets, variable definitions, and explanations to guide users through the implementation and analysis process.
+
+## License
+
+MIT — see `LICENSE`.
