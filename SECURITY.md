@@ -9,4 +9,3 @@ If you discover a security issue, please email vimsrocz@gmail.com with:
 - Any suggested mitigation
 
 Please do not open a public issue for security vulnerabilities.
-

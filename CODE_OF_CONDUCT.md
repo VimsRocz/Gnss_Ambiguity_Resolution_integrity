@@ -20,4 +20,3 @@ reported by contacting the project team at vimsrocz@gmail.com.
 ## Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
-
